@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProspectiveSafe360", "ProspectiveSafe360\ProspectiveSafe360.csproj", "{496E2819-65B7-4A9B-8951-4114F745F6BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProspectiveSafe360.Tests", "ProspectiveSafe360.Tests\ProspectiveSafe360.Tests.csproj", "{5BE7949C-D6AC-4A85-954E-402AF57582F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{496E2819-65B7-4A9B-8951-4114F745F6BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{496E2819-65B7-4A9B-8951-4114F745F6BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{496E2819-65B7-4A9B-8951-4114F745F6BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{496E2819-65B7-4A9B-8951-4114F745F6BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BE7949C-D6AC-4A85-954E-402AF57582F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BE7949C-D6AC-4A85-954E-402AF57582F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BE7949C-D6AC-4A85-954E-402AF57582F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BE7949C-D6AC-4A85-954E-402AF57582F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15032830-CF8E-4FFB-A73B-B3E2168F3A52}
+	EndGlobalSection
+EndGlobal
